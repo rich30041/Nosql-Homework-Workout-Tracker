@@ -50,4 +50,4 @@ Once everything has been set up, the application can be launched by running the 
 - [Project Repository](https://github.com/rich30041/Nosql-Homework-Workout-Tracker)
 
 ## Heroku
-- [Heroku App Link]()
+- [Heroku App Link](https://fast-ridge-97400.herokuapp.com)
