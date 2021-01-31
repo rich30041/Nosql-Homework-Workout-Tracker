@@ -23,6 +23,10 @@ Workout Tracker allows user to view create and track daily workouts. They are ab
 
 ![Foto2](./images/dashboard.png)
 
+![Foto3](./images/add_exercise.png)
+
+![Foto4](./images/add_cardio.png)
+
 ## Installation
 
 To install this application, first, branch the Github Repo and clone the repo to your local machine. Then, you will need to install the node dependencies which can be done by running the npm install command in your terminal/bash shell.
